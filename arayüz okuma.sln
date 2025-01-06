@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arayüz okuma", "arayüz okuma.csproj", "{BAFAA5D7-B8BC-4E0E-9522-BA38F280D371}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAFAA5D7-B8BC-4E0E-9522-BA38F280D371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAFAA5D7-B8BC-4E0E-9522-BA38F280D371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAFAA5D7-B8BC-4E0E-9522-BA38F280D371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAFAA5D7-B8BC-4E0E-9522-BA38F280D371}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00145AB5-47F7-41A1-AB95-7011DFAD526A}
+	EndGlobalSection
+EndGlobal
